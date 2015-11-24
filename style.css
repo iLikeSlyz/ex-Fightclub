@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'fightthisregular';
+    src: url('fightt3_-webfont.eot');
+    src: url('fightt3_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fightt3_-webfont.woff2') format('woff2'),
+         url('fightt3_-webfont.woff') format('woff'),
+         url('fightt3_-webfont.ttf') format('truetype'),
+         url('fightt3_-webfont.svg#fightthisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.carre{background-color:#C5407C;
+  width:300px;
+  height:150px;
+font-size: 70px;
+line-height: 42px;
+text-align: center;
+box-sizing: border-box;
+transform: rotate(8deg);
+left:100px;
+top:100px;
+box-shadow: 3px 3px 3px #85205C,-3px -3px 3px #ddd, inset -12px 0px 20px rgba(255,255,255,0,5);
+border-radius: 12px}
+
+.p{margin:30px 0 0;
+padding-top: 50px}
